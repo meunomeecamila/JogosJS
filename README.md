@@ -52,11 +52,19 @@ Jogo de física com estilingue onde o jogador lança um polígono para derrubar 
 
 ---
 
-### Mango Game
+### 🥭 Mango Game
 Jogo de física no qual o jogador usa um estilingue para lançar uma pedra e derrubar mangas de uma árvore, utilizando Matter.js.  
 **Pasta:** `/Mango`
 
 ---
+
+### 🐦 Angry Birds
+Versão simplificada do clássico Angry Birds usando Matter.js, com estilingue, física realista, pontuação por porcos atingidos e fundo que muda conforme o horário do dia.  
+**Pasta:** `/AngryBirds`
+
+---
+
+
 
 
 
