@@ -14,3 +14,11 @@ Jogo de corrida onde o jogador controla um canguru que coleta arbustos e desvia 
 
 ---
 
+### ❓ Quiz Game
+Jogo de perguntas e respostas onde o jogador insere seu nome, escolhe uma alternativa e envia sua resposta.  
+Inclui integração com **Firebase Realtime Database** para registrar participantes.  
+**Pasta:** `/Quiz`
+
+---
+
+
