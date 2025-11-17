@@ -21,4 +21,11 @@ Inclui integração com **Firebase Realtime Database** para registrar participan
 
 ---
 
+### 🎈 Balloon Ride
+Jogo interativo onde o jogador move um balão de ar quente usando as setas do teclado, com posição sincronizada em tempo real via **Firebase Realtime Database**.  
+**Pasta:** `/Balao`
+
+---
+
+
 
