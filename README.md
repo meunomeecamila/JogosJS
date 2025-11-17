@@ -27,5 +27,12 @@ Jogo interativo onde o jogador move um balão de ar quente usando as setas do te
 
 ---
 
+### 🎰 Plinko
+Jogo baseado em física utilizando **Matter.js**, onde o jogador solta bolinhas que caem entre pinos até os compartimentos com pontuações diferentes.  
+**Pasta:** `/Plinko`
+
+---
+
+
 
 
