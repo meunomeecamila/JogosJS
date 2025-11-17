@@ -46,6 +46,13 @@ Jogo multiplayer de coleta de frutas onde dois jogadores movem cestas para captu
 
 ---
 
+### 🪃 Slingshot Game
+Jogo de física com estilingue onde o jogador lança um polígono para derrubar blocos, usando Matter.js.  
+**Pasta:** `/Slingshot`
+
+---
+
+
 
 
 
