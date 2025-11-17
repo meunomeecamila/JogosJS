@@ -33,6 +33,12 @@ Jogo baseado em física utilizando **Matter.js**, onde o jogador solta bolinhas 
 
 ---
 
+### 🚗 Car Racing Game
+Jogo multiplayer de corrida para até quatro jogadores, com sincronização em tempo real via Firebase.  
+Pista contínua, movimentação fluida e estados de jogo sincronizados.  
+**Pasta:** `/Car_racing`
+
+
 
 
 
