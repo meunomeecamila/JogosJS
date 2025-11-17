@@ -38,6 +38,15 @@ Jogo multiplayer de corrida para até quatro jogadores, com sincronização em t
 Pista contínua, movimentação fluida e estados de jogo sincronizados.  
 **Pasta:** `/Car_racing`
 
+---
+
+### 🍎 Fruit Game
+Jogo multiplayer de coleta de frutas onde dois jogadores movem cestas para capturar itens que caem, com sincronização em tempo real via Firebase.  
+**Pasta:** `/Fruit`
+
+---
+
+
 
 
 
