@@ -71,6 +71,11 @@ Simulação do clássico Pêndulo de Newton. Demonstra a conservação de moment
 
 ---
 
+### 🚁 Operação de Entrega de Ajuda (Helicopter Drop)
+Jogo de simulação onde o jogador controla um helicóptero para soltar um pacote de suprimentos em uma zona de destino marcada.
+**Mecânicas:** Movimento lateral por teclado, queda livre realista (Matter.js), colisões e zona de destino.
+**Pasta:** `/Heli`
+
 
 
 
