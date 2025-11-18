@@ -106,6 +106,11 @@ Jogo de simulação que cria o efeito visual de um navio navegando continuamente
 
 ---
 
+### 🦖 T-Rex Runner (Dino Game)
+Recriação do famoso jogo do dinossauro (T-Rex) do Google Chrome. O jogador deve pular sobre obstáculos (cactos) enquanto corre infinitamente para acumular pontos.
+**Mecânicas:** Jogo de corrida infinita (scrolling ground), salto (gravidade p5.js), aumento de dificuldade com a pontuação, detecção de colisão e estados de jogo (`JOGAR`/`ENCERRAR`).
+**Pasta:** `/Trex`
+
 
 
 
