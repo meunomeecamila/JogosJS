@@ -92,6 +92,13 @@ Simulação básica que demonstra a **queda livre**, a **gravidade** e a **colis
 
 ---
 
+### ✨ Estrela Cadente da Fada (Fairy Star Drop)
+Jogo temático que simula a queda de uma estrela (Star) sob a gravidade, possivelmente guiada por uma fada.
+**Mecânicas:** Queda livre (Matter.js), controle de estado estático (`isStatic:true` para `false`) para iniciar a queda, e uso de sprites animados/imagens para criar um ambiente noturno de conto de fadas.
+**Pasta:** `/Fada`
+
+---
+
 
 
 
