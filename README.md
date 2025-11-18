@@ -64,6 +64,13 @@ Versão simplificada do clássico Angry Birds usando Matter.js, com estilingue, 
 
 ---
 
+### ⚖️ Pêndulo de Newton (Newton's Cradle)
+Simulação do clássico Pêndulo de Newton. Demonstra a conservação de momento linear e energia através da colisão de esferas.
+**Mecânicas:** Física realista com Matter.js, restrições (cordas) e aplicação de força por teclado.
+**Pasta:** `/Rope`
+
+---
+
 
 
 
