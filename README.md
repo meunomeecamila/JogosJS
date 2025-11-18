@@ -76,6 +76,11 @@ Jogo de simulação onde o jogador controla um helicóptero para soltar um pacot
 **Mecânicas:** Movimento lateral por teclado, queda livre realista (Matter.js), colisões e zona de destino.
 **Pasta:** `/Heli`
 
+### 🔨 Jogo do Martelo (Hammer Game)
+Jogo de simulação focado na interação com objetos usando um martelo controlável pelo mouse.
+**Mecânicas:** Controle do objeto principal pelo mouse, corpo rígido pesado (alta densidade) com física customizada (Matter.js) para colisões de alto impacto.
+**Pasta:** `/Hammer`
+
 
 
 
