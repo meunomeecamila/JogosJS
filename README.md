@@ -76,10 +76,21 @@ Jogo de simulação onde o jogador controla um helicóptero para soltar um pacot
 **Mecânicas:** Movimento lateral por teclado, queda livre realista (Matter.js), colisões e zona de destino.
 **Pasta:** `/Heli`
 
+---
+
 ### 🔨 Jogo do Martelo (Hammer Game)
 Jogo de simulação focado na interação com objetos usando um martelo controlável pelo mouse.
 **Mecânicas:** Controle do objeto principal pelo mouse, corpo rígido pesado (alta densidade) com física customizada (Matter.js) para colisões de alto impacto.
 **Pasta:** `/Hammer`
+
+---
+
+### 🧱 Simulação de Blocos Físicos (Blocks & Gravity)
+Simulação básica que demonstra a **queda livre**, a **gravidade** e a **colisão** de corpos rígidos em um ambiente 2D.
+**Mecânicas:** Física pura com Matter.js, corpos rígidos retangulares (`Box`), solo estático (`Ground`) e loop de atualização do motor.
+**Pasta:** `/Box`
+
+---
 
 
 
