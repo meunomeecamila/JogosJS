@@ -99,6 +99,13 @@ Jogo temático que simula a queda de uma estrela (Star) sob a gravidade, possive
 
 ---
 
+### ⛵ Navio no Mar Infinito (Infinite Sailing)
+Jogo de simulação que cria o efeito visual de um navio navegando continuamente em um mar infinito (scrolling background).
+**Mecânicas:** Animação do navio (`loadAnimation`), background repetitivo (`mar.x < 0`), movimento constante (`mar.velocityX`) e uso de sprites.
+**Pasta:** `/Ship`
+
+---
+
 
 
 
